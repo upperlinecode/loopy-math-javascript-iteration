@@ -1,6 +1,6 @@
 # Loopy Math
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/loopy-math-python-iteration)](https://repl.it/github/upperlinecode/loopy-math-python-iteration)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/loopy-math-javascript-iteration)](https://repl.it/github/upperlinecode/loopy-math-javascript-iteration)
 
 ## TL;DR
 
