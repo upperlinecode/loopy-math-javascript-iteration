@@ -31,7 +31,7 @@ Open up the loops.js file, and try to complete each of the `for` loops described
 
 Here's the easiest answer for problem 1:
 ```javascript
-for(let i = 1; i < 101; i++) {
+for(let i = 1; i <= 100; i++) {
   console.log(i)
 }
 ```
